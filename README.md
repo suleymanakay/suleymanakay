@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suleymanakay
 - 👀 I’m interested in ...Full-Stack Developer
 - 🌱 I’m currently learning ...Java working
-- 💞️ I’m looking to collaborate on ...Patika.Dev
+- 💞️ I’m looking to collaborate on ...Patika.Dev-Hackerrank
 - 📫 How to reach me ...+905530480547 or gmail: suleymanakaybir@gmail.com
 
 <!---
